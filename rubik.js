@@ -161,7 +161,7 @@ YUI.add('rubik', function (Y) {
       
     //Match the sides with css .class
     var INIT_CONFIG = {
-        "front":"blue",
+        "front":"blue1",
         "back":"green",
         "up":"red",
         "down":"white",
